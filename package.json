@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "bundler": "node index.js",
     "test": "node test.js"
   },
   "author": "YuriyVorobyov96",
