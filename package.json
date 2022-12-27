@@ -1,0 +1,14 @@
+{
+  "name": "js-bundler",
+  "version": "1.0.0",
+  "description": "A simple JS-code bundler implemented on Vanilla JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "YuriyVorobyov96",
+  "license": "ISC",
+  "dependencies": {}
+}
